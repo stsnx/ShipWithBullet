@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\STSNX\source\repos\drawingShip2\drawingShip2\Source.cpp(16,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\STSNX\source\repos\drawingShip2\drawingShip2\Source.cpp(16,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  drawingShip2.vcxproj -> C:\Users\STSNX\source\repos\drawingShip2\Debug\drawingShip2.exe
